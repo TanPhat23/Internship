@@ -111,9 +111,9 @@ Giải pháp tập trung vào các thành phần: tích hợp GitHub, pipeline C
 
 ## Key Milestones
 
-- Hoàn thành POC pipeline (tuần 1)
-- Tích hợp GitHub, domain, SSL (tuần 2)
-- Go-live (tuần 3)
+- Hoàn thành POC pipeline (tuần 1-2)
+- Tích hợp GitHub, domain, SSL (tuần 2-3)
+- Go-live (tuần 4-5)
 
 ## Dependencies
 
@@ -216,3 +216,4 @@ Có phương án chuyển sang manual deploy nếu pipeline lỗi nghiêm trọn
 ## D. References
 
 - AWS Well-Architected, AWS Case Studies, Vercel Docs, Netlify Docs.
+- Vercel 's infastructure blog: https://vercel.com/blog/behind-the-scenes-of-vercels-infrastructure
