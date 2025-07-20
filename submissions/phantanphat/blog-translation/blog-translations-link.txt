@@ -1,0 +1,6 @@
+- https://docs.google.com/document/d/1BQjzdHa4oJMTrB2C7iDV9z1cyoE3hiPJ/edit?rtpof=true&tab=t.0      Thử thách và chiến lược di cư cơ sở dữ liệu quan hệ có thông lượng cao
+- https://docs.google.com/document/d/1Vgs_r-WhAxf99inMeJUGBW55ox6zMJqx/edit#heading=h.de0wre0tac9   Thông báo phát hành rộng rãi Amazon EventBridge Scheduler L2 Construct
+- https://docs.google.com/document/d/1wJdDNKliHPja3qugDjXU7sCp_afUzWLX/edit                         Prime Video cải thiện hiệu suất phân tích luồng với Amazon S3 Express One Zone
+- https://docs.google.com/document/d/1QvlvCkWB4mCGWR5nPMcNFA6zNbJFzTl8/edit#heading=h.t9i109ndwvqr  AWS Elastic Beanstalk hiện được tích hợp với AWS Secrets Manager và Systems Manager Parameter Store
+- https://docs.google.com/document/d/1LOfo79Xlfny0_2zQhKPNiqjdHZOVe3P_/edit?usp=drive_web&ouid=100032065843656591801&rtpof=true Chuyển đổi khối lượng công việc .NET Framework sang Linux với Amazon Q Developer, Phần 3: Web API
+- https://docs.google.com/document/d/1d9wyLSKrK4SD7J9MYnQTF-vzNvEJgMVL/edit#heading=h.vhzp6fpx82k   Khung AI cho Dạy và Học trên AWS đang thay đổi trải nghiệm của sinh viên và giáo viên như thế nào
