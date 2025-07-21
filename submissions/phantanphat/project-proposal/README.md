@@ -62,10 +62,13 @@ Giải pháp tập trung vào các thành phần: tích hợp GitHub, pipeline C
 - CloudWatch: Giám sát, alert.
 
 - Luồng triển khai:  
-  GitHub Webhook → API Gateway → Lambda (build) → S3 → Route53 → End-user
+  Đối với GithubWebhook
+    - GitHub Webhook → API Gateway → Lambda (build) → S3 → Route53 → End-user
+  Đối với AWS Amplify:
+    - AWS Amplify (người dùng upload project qua file zip)→ API Gateway → Lambda (build) → S3 → Route53 → End-user
 
 ## Kiến trúc bảo mật
-
+- AWS Cognito
 - IAM role tối thiểu, mã hóa dữ liệu S3, audit log CloudTrail.
 
 ## Thiết kế mở rộng
